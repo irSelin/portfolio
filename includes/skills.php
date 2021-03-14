@@ -41,4 +41,3 @@
     <li>Illustration and animation</li>
   </ul>
 </section>
-<aside>In addition, I have experience in self-teaching new skills and languages: see my <a href="experience.html">Companio Internship</a></aside>

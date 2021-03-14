@@ -6,10 +6,10 @@
   <header>
     <nav>
       <ul>
-        <li> <a href = "index.html">About</a> </li>
-        <li> <a href = "skills.html">Skills</a> </li>
-        <li> <a href = "experience.html">Experience</a> </li>
-        <li> <a href = "contact.html">Contact</a> </li>
+        <li> <a href="#about">About</a> </li>
+        <li> <a href="#skills">Skills</a> </li>
+        <li> <a href="#experience">Experience</a> </li>
+        <li> <a href="#contact">Contact</a> </li>
       </ul>
     </nav>
   </header>
@@ -37,9 +37,18 @@
     <section id="contact">
       <h1>Contact Information</h1>
       <ul>
-        <li><strong>Email:</strong> isabelselin@gmail.com</li>
-        <li><strong>Linkedin:</strong> <a href = "https://www.linkedin.com/in/isabel-selin-b24588196/">https://www.linkedin.com/in/isabel-selin-b24588196/</a></li>
-        <li><strong>Github:</strong> <a href = "https://github.com/irSelin">https://github.com/irSelin</a></li>
+        <li>
+          <strong>Email:</strong>
+          <a href="mailto: isabelselin@gmail.com">isabelselin@gmail.com</a>
+        </li>
+        <li>
+          <strong>Linkedin:</strong>
+          <a href="https://www.linkedin.com/in/isabel-selin-b24588196/" target="_blank">https://www.linkedin.com/in/isabel-selin-b24588196/</a>
+        </li>
+        <li>
+          <strong>Github:</strong>
+          <a href="https://github.com/irSelin" target="_blank">https://github.com/irSelin</a>
+        </li>
       </ul>
     </section>
   </main>
