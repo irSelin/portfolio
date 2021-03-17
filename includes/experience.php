@@ -1,12 +1,14 @@
-<article>
-  <h2>Game Development Intern at <em>The Smithsonian Institution</em></h2>
+<article class="flexbox">
   <img src="images/smithsonian-preview.jpg" alt="Screenshot of local multiplayer predator/prey web game" width="664" height="376">
   <!-- Screenshot of game worked on with Cody Coltharp -->
-  <ul>
-    <li>Developed educational game on ecology for publishing on Smithsonian website, as part of small team</li>
-    <li>Designed and implemented new features centered around user interface</li>
-    <li>Refined and debugged existing mechanics for movement and physics</li>
-  </ul>
+  <div>
+    <h2>Game Development Intern at <em>The Smithsonian Institution</em></h2>
+    <ul>
+      <li>Developed educational game on ecology for publishing on Smithsonian website, as part of small team</li>
+      <li>Designed and implemented new features centered around user interface</li>
+      <li>Refined and debugged existing mechanics for movement and physics</li>
+    </ul>
+  </div>
 </article>
 
 <article>
@@ -19,16 +21,18 @@
   </ul>
 </article>
 
-<article>
-  <h2>UX Designer in student team <em>Digital Sunset</em></h2>
+<article class="flexbox">
   <img src="images/digitalsunset-preview.jpg" alt="Screenshot of storybook video-calling application wireframe" width="600" height="416">
   <!-- Screenshot of wireframe worked on with Caitlin Lau, John Qin and Yingyi Shu -->
-  <ul>
-    <li>Collaborated with three peers to design and prototype a video-call app specialized for inter-generation storytelling</li>
-    <li>Modeled user interface through both paper and digital prototypes</li>
-    <li>Interviewed target audience to learn about their values and understand feedback about our prototypes</li>
-    <li>Organized team meetings, distributed work and mediated conflict resolution</li>
-  </ul>
+  <div>
+    <h2>UX Designer in student team <em>Digital Sunset</em></h2>
+    <ul>
+      <li>Collaborated with three peers to design and prototype a video-call app specialized for inter-generation storytelling</li>
+      <li>Modeled user interface through both paper and digital prototypes</li>
+      <li>Interviewed target audience to learn about their values and understand feedback about our prototypes</li>
+      <li>Organized team meetings, distributed work and mediated conflict resolution</li>
+    </ul>
+  </div>
 </article>
 
 <article>
@@ -41,27 +45,31 @@
   </ul>
 </article>
 
-<article>
-  <h2>Project Lead on student game development team <em>Waypoint</em></h2>
+<article class="flexbox">
   <img src="images/waypoint-preview.jpg" alt="Screenshot from stealth-based mini golf game: Parole in One" width="600" height="416">
   <!-- Screenshot of class project worked on with Yuxiang Yu, Courtney Manbeck, Lucien Eckert, Kevin Klaben, Tony Qin, Betsy Vasquez Valerio and Barry Wang -->
-  <ul>
-    <li>Led team of eight peers to develop and publish videogame, winning “Most Innovative Game” of class</li>
-    <li>Distributed work and set internal deadlines to meet two-week milestone goals</li>
-    <li>Directed team meetings, facilitated cross-discipline communication, mediated conflict resolution</li>
-    <li>Gathered and analyzed user feedback to find practical solutions</li>
-    <li>Created concept art, animated enemy sprites</li>
-  </ul>
+  <div>
+  <h2>Project Lead on student game development team <em>Waypoint</em></h2>
+    <ul>
+      <li>Led team of eight peers to develop and publish videogame, winning “Most Innovative Game” of class</li>
+      <li>Distributed work and set internal deadlines to meet two-week milestone goals</li>
+      <li>Directed team meetings, facilitated cross-discipline communication, mediated conflict resolution</li>
+      <li>Gathered and analyzed user feedback to find practical solutions</li>
+      <li>Created concept art, animated enemy sprites</li>
+    </ul>
+  </div>
 </article>
 
-<article>
-  <h2>Lead Artist at <em>Salt Studios</em></h2>
+<article class="flexbox">
   <img src="images/saltstudios-preview.jpg" alt="concept art for goblin-centered RPG" width="463" height="539">
-  <ul>
-    <li>Collaborated with team of four peers to prototype a turn-based RPG featuring goblins as the main characters</li>
-    <li>Mediated compromise for story and gameplay design</li>
-    <li>Created concept art, illustrated assets for demo</li>
-  </ul>
+  <div>
+    <h2>Lead Artist at <em>Salt Studios</em></h2>
+    <ul>
+      <li>Collaborated with team of four peers to prototype a turn-based RPG featuring goblins as the main characters</li>
+      <li>Mediated compromise for story and gameplay design</li>
+      <li>Created concept art, illustrated assets for demo</li>
+    </ul>
+  </div>
 </article>
 
 <article>

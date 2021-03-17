@@ -2,15 +2,6 @@ body {
   font-family: sans-serif;
 }
 
-header{
-  background-color: #92caf0;
-}
-
-#contact {
-  background-color: #c1b9b3;
-  /* color: #6b564e; */
-}
-
 h1 {
   font-size: 48px;
 }
@@ -25,4 +16,24 @@ li {
 
 p {
   font-size: 20px;
+}
+
+
+header {
+  text-align: center;
+  /* background-color: #92caf0; */
+}
+
+.flexbox {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-item{
+  flex-grow: 1;
+}
+
+#contact {
+  background-color: #c1b9b3;
+  /* color: #6b564e; */
 }

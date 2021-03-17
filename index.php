@@ -15,20 +15,26 @@
   <header>
     <h1>Isabel Selin</h1>
     <nav>
-      <ul>
-        <li> <a href="#about">About</a> </li>
-        <li> <a href="#skills">Skills</a> </li>
-        <li> <a href="#experience">Experience</a> </li>
-        <li> <a href="#contact">Contact</a> </li>
+      <ul class="flexbox">
+        <li class="flex-item"> <a href="#about">About</a> </li>
+        <li class="flex-item"> <a href="#skills">Skills</a> </li>
+        <li class="flex-item"> <a href="#experience">Experience</a> </li>
+        <li class="flex-item"> <a href="#contact">Contact</a> </li>
       </ul>
     </nav>
   </header>
 
   <main>
-    <section id="about">
-      <img src="images/id-photo.jpeg" alt="ID photo" width="433" height="433"/>
-      <h1>About Me</h1>
-      <?php include("includes/about_me.php"); ?>
+    <section id="about" class="flexbox">
+      <img class="flex-item"
+        src="images/id-photo.jpeg"
+        alt="ID photo"
+        width="433"
+        height="433"/>
+      <div class="flex-item">
+        <h1>About Me</h1>
+        <p><?php include("includes/about_me.php"); ?></p>
+      </div>
     </section>
 
     <section id="skills">
