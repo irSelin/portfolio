@@ -2,8 +2,18 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <title>Isabel Selin</title>
+
+  <link rel="stylesheet" type="text/css" href="styles/site.css" media="all" />
+</head>
+
 <body>
   <header>
+    <h1>Isabel Selin</h1>
     <nav>
       <ul>
         <li> <a href="#about">About</a> </li>
@@ -16,12 +26,9 @@
 
   <main>
     <section id="about">
-      <!-- add attributes width="tbd" height="tbd" -->
       <img src="images/id-photo.jpeg" alt="ID photo" width="433" height="433"/>
-      <!-- Photo taken by Pamela Selin -->
-      <h1>Isabel Selin</h1>
-      <h2>Computer science major at Cornell University, class of 2022</h2>
-      <p>Hi, I'm Isabel Selin, a computer science major and game design and fine arts minor at Cornell University.</p>
+      <h1>About Me</h1>
+      <?php include("includes/about_me.php"); ?>
     </section>
 
     <section id="skills">
