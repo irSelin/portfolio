@@ -17,7 +17,7 @@
   <main>
     <section id="about">
       <!-- add attributes width="tbd" height="tbd" -->
-      <img src="images/id-photo.jpeg" width="433" height="433"/>
+      <img src="images/id-photo.jpeg" alt="ID photo" width="433" height="433"/>
       <!-- Photo taken by Pamela Selin -->
       <h1>Isabel Selin</h1>
       <h2>Computer science major at Cornell University, class of 2022</h2>
