@@ -1,4 +1,4 @@
-<section>
+<section class="flex-item">
   <h2>Programming Languages</h2>
   <ul>
     <li>Java</li>
@@ -17,7 +17,7 @@
   </ul>
 </section>
 
-<section>
+<section class="flex-item">
   <h2>Software Proficiencies</h2>
   <ul>
     <li>Unity</li>
@@ -30,7 +30,7 @@
   </ul>
 </section>
 
-<section>
+<section class="flex-item">
   <h2>General Skills</h2>
   <ul>
     <li>Leadership</li>

@@ -15,7 +15,7 @@
   <header>
     <h1>Isabel Selin</h1>
     <nav>
-      <ul class="flexbox">
+      <ul class="flexbox" id="nav-menu">
         <li class="flex-item"> <a href="#about">About</a> </li>
         <li class="flex-item"> <a href="#skills">Skills</a> </li>
         <li class="flex-item"> <a href="#experience">Experience</a> </li>
@@ -39,7 +39,7 @@
 
     <section id="skills">
       <h1>Skills</h1>
-      <?php include("includes/skills.php"); ?>
+      <div class="flexbox"> <?php include("includes/skills.php"); ?> <div>
     </section>
 
     <section id="experience">
