@@ -1,5 +1,9 @@
 <article class="flexbox">
-  <img src="images/smithsonian-preview.jpg" alt="Screenshot of local multiplayer predator/prey web game" width="664" height="376">
+  <a
+    href = "http://smithsonianeducation.org/interactives/pvp/index.html"
+    target="_blank">
+    <img src="images/smithsonian-preview.jpg" alt="Screenshot of local multiplayer predator/prey web game" width="664" height="376">
+  </a>
   <!-- Screenshot of game worked on with Cody Coltharp -->
   <div>
     <h2>Game Development Intern at <em>The Smithsonian Institution</em></h2>
@@ -11,18 +15,30 @@
   </div>
 </article>
 
-<article>
-  <h2>Software Development Intern at <em>Companio</em></h2>
-  <ul>
-    <li>Designed and completed application to pull information from recipe sites and convert into database format</li>
-    <li>Planned application architecture, implemented functions for string manipulation and analysis</li>
-    <li>Tested code comprehensively, wrote accessible documentation</li>
-    <li>Learned and adapted to an unfamiliar programming language</li>
-  </ul>
+<article class="flexbox">
+  <div class="flex-item">
+    <img src="images/companio-preview.svg" alt="food icon" width = "100%">
+    <p>
+      Icons made by <a href="https://www.flaticon.com/authors/monkik" title="monkik">monkik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+    <p>
+  </div>
+  <div class="flex-item">
+    <h2>Software Development Intern at <em>Companio</em></h2>
+    <ul>
+      <li>Designed and completed application to pull information from recipe sites and convert into database format</li>
+      <li>Planned application architecture, implemented functions for string manipulation and analysis</li>
+      <li>Tested code comprehensively, wrote accessible documentation</li>
+      <li>Learned and adapted to an unfamiliar programming language</li>
+    </ul>
+  <div>
 </article>
 
 <article class="flexbox">
-  <img src="images/digitalsunset-preview.jpg" alt="Screenshot of storybook video-calling application wireframe" width="600" height="416">
+  <a
+    href = "https://www.figma.com/proto/alxxRAGE9CXzhVe72DkJRo/DIgital-Sunset-Mid-fi-Prototype?node-id=7%3A2&scaling=min-zoom&page-id=0%3A1"
+    target="_blank">
+    <img src="images/digitalsunset-preview.jpg" alt="Screenshot of storybook video-calling application wireframe" width="600" height="416">
+  </a>
   <!-- Screenshot of wireframe worked on with Caitlin Lau, John Qin and Yingyi Shu -->
   <div>
     <h2>UX Designer in student team <em>Digital Sunset</em></h2>
@@ -32,24 +48,38 @@
       <li>Interviewed target audience to learn about their values and understand feedback about our prototypes</li>
       <li>Organized team meetings, distributed work and mediated conflict resolution</li>
     </ul>
+    <a
+      href="https://www.figma.com/proto/o8lx0DWdhuPmZMd1VvOOb4/Mid-Fi-Coffe-Prototype-(info3450)?node-id=0%3A3&scaling=scale-down&page-id=0%3A1"
+      target="_blank">
+      Click here for another example of my wireframes from this class: an application for ordering coffee.
+    </a>
   </div>
 </article>
 
-<article>
-  <h2>Software Engineer in student team <em>Betrayal</em></h2>
-  <ul>
-    <li>Collaborated with three peers to create text-based game inspired by board game “Betrayal at House on the Hill”</li>
-    <li>Designed and implemented custom data type for tiles of game board which flexibly expands in any direction</li>
-    <li>Designed and implemented algorithm to randomly generate exits for each tile while maintaining path consistency</li>
-    <li>Ideated theming and wrote flavor text</li>
-  </ul>
+<article class="flexbox">
+  <div class="flex-item">
+    <img src="images/cornell-preview.gif" alt="Cornell University logo" width="100%">
+  </div>
+  <div class="flex-item">
+    <h2>Software Engineer in student team <em>Betrayal</em></h2>
+    <ul>
+      <li>Collaborated with three peers to create text-based game inspired by board game “Betrayal at House on the Hill”</li>
+      <li>Designed and implemented custom data type for tiles of game board which flexibly expands in any direction</li>
+      <li>Designed and implemented algorithm to randomly generate exits for each tile while maintaining path consistency</li>
+      <li>Ideated theming and wrote flavor text</li>
+    </ul>
+  </div>
 </article>
 
 <article class="flexbox">
-  <img src="images/waypoint-preview.jpg" alt="Screenshot from stealth-based mini golf game: Parole in One" width="600" height="416">
+  <a
+    href = "https://irselin.itch.io/parole-in-one"
+    target="_blank">
+    <img src="images/waypoint-preview.jpg" alt="Screenshot from stealth-based mini golf game: Parole in One" width="600" height="416">
+  </a>
   <!-- Screenshot of class project worked on with Yuxiang Yu, Courtney Manbeck, Lucien Eckert, Kevin Klaben, Tony Qin, Betsy Vasquez Valerio and Barry Wang -->
   <div>
-  <h2>Project Lead on student game development team <em>Waypoint</em></h2>
+    <h2>Project Lead on student game development team <em>Waypoint</em></h2>
     <ul>
       <li>Led team of eight peers to develop and publish videogame, winning “Most Innovative Game” of class</li>
       <li>Distributed work and set internal deadlines to meet two-week milestone goals</li>
@@ -72,11 +102,14 @@
   </div>
 </article>
 
-<article>
-  <h2>Intern at <em>The American Museum of Natural History</em> exhibition design department</h2>
-  <ul>
-    <li>Planned exhibit organization, researched content and design strategies, created concept boards</li>
-    <li>Prototyped interactive elements, modeled layout and displays</li>
-    <li>Communicated ideas to diverse teams within department using directed presentations</li>
-  </ul>
+<article class="flexbox">
+  <img src="images/amnh-preview.jpg" alt="logo for the American Museum of Natural History" width="600" height="378">
+  <div>
+    <h2>Intern at <em>The American Museum of Natural History</em> exhibition design department</h2>
+    <ul>
+      <li>Planned exhibit organization, researched content and design strategies, created concept boards</li>
+      <li>Prototyped interactive elements, modeled layout and displays</li>
+      <li>Communicated ideas to diverse teams within department using directed presentations</li>
+    </ul>
+  </div>
 </article>
