@@ -62,6 +62,10 @@
           <strong>Github:</strong>
           <a href="https://github.com/irSelin" target="_blank">https://github.com/irSelin</a>
         </li>
+        <li>
+          <strong>itch.io:</strong>
+          <a href="https://irselin.itch.io/" target="_blank">https://irselin.itch.io/</a>
+        </li>
       </ul>
     </section>
   </main>
