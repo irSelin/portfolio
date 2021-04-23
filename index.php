@@ -33,7 +33,7 @@
         height="433"/>
       <div class="flex-item">
         <h1>About Me</h1>
-        <p><?php include("includes/about_me.php"); ?></p>
+        <?php include("includes/about_me.php"); ?>
       </div>
     </section>
 
