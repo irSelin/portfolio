@@ -66,6 +66,9 @@ article {
 
 header {
   text-align: center;
+  background: #6b564e;
+  /* background: #3a8a7c; */
+  color: #dbd2cb;
 }
 
 nav{
@@ -76,6 +79,7 @@ nav{
 #nav-menu{
   font-size: 24px;
   list-style-type: none;
+  text-transform: uppercase;
   /* color: #c5ebe6; */
 }
 
