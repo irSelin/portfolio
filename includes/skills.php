@@ -1,19 +1,19 @@
 <section class="flex-item">
   <h2>Programming Languages</h2>
   <ul>
-    <li>Java</li>
-    <li>C</li>
-    <li>C#</li>
-    <li>Python</li>
-    <li>JavaScript</li>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Elixir</li>
-    <li>OCaml</li>
-    <li>PostgreSQL</li>
-    <li>R</li>
-    <li>Box2D</li>
-    <li>git</li>
+    <li><img height="30px" src="images/skills/java_logo.png">Java</li>
+    <li><img height="30px" src="images/skills/c_logo.png">C</li>
+    <li><img height="30px" src="images/skills/csharp_logo.png">C#</li>
+    <li><img height="30px" src="images/skills/python_logo.png">Python</li>
+    <li><img height="30px" src="images/skills/javascript_logo.png">JavaScript</li>
+    <li><img height="30px" src="images/skills/html_logo.png">HTML</li>
+    <li><img height="30px" src="images/skills/css_logo.png">CSS</li>
+    <li><img height="30px" src="images/skills/elixir_logo.png">Elixir</li>
+    <li><img height="30px" src="images/skills/ocaml_logo.png">OCaml</li>
+    <li><img height="30px" src="images/skills/postgresql_logo.png">PostgreSQL</li>
+    <li><img height="30px" src="images/skills/r_logo.png">R</li>
+    <li><img height="30px" src="images/skills/box2d_logo.png">Box2D</li>
+    <li><img height="30px" src="images/skills/git_logo.png">git</li>
   </ul>
 </section>
 
