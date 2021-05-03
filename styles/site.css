@@ -45,6 +45,28 @@ article {
   margin-bottom: 32px;
 }
 
+header {
+  text-align: center;
+  background: #6b564e;
+  /* background: #3a8a7c; */
+  color: #dbd2cb;
+}
+
+nav{
+  height: 50px;
+  /* background-color: #089784 */
+}
+
+main{
+  width: 1200px;
+  margin: auto;
+  /* padding: 20px 10px 32px 10px; */
+  border-bottom: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+  background: #fff
+}
+
 .flexbox {
   display: flex;
   flex-direction: row;
@@ -64,33 +86,11 @@ article {
   color: inherit;
 }
 
-header {
-  text-align: center;
-  background: #6b564e;
-  /* background: #3a8a7c; */
-  color: #dbd2cb;
-}
-
-nav{
-  height: 50px;
-  /* background-color: #089784 */
-}
-
 #nav-menu{
   font-size: 24px;
   list-style-type: none;
   text-transform: uppercase;
   /* color: #c5ebe6; */
-}
-
-main{
-  width: 1200px;
-  margin: auto;
-  /* padding: 20px 10px 32px 10px; */
-  border-bottom: 1px solid #ccc;
-  border-right: 1px solid #ccc;
-  border-left: 1px solid #ccc;
-  background: #fff
 }
 
 #contact {
