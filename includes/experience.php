@@ -2,7 +2,7 @@
   <a
     href = "http://smithsonianeducation.org/interactives/pvp/index.html"
     target="_blank">
-    <img src="images/smithsonian-preview.jpg" alt="Splitscreen of the bat using its echolocation ability and the frog producing a mating call" width="577" height="433">
+    <img src="images/experience/smithsonian-preview.jpg" alt="Splitscreen of the bat using its echolocation ability and the frog producing a mating call" width="577" height="433">
   </a>
   <!-- Screenshot of game worked on with Cody Coltharp -->
   <div>
@@ -17,7 +17,7 @@
 
 <article class="flexbox">
   <div class="flex-item">
-    <img src="images/companio-preview.jpg" alt="generic food icon" width = "500" height="400">
+    <img src="images/experience/companio-preview.jpg" alt="generic food icon" width = "500" height="400">
     <p>
       Icon made by <a href="https://www.flaticon.com/authors/monkik" title="monkik">monkik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
     <p>
@@ -37,7 +37,7 @@
   <a
     href = "https://www.figma.com/proto/alxxRAGE9CXzhVe72DkJRo/DIgital-Sunset-Mid-fi-Prototype?node-id=7%3A2&scaling=min-zoom&page-id=0%3A1"
     target="_blank">
-    <img src="images/digitalsunset-preview.jpg" alt="Screenshot of storybook video-call wireframe, with an interactive to draw on the users' video on the left, and text from the story on the right." width="600" height="416">
+    <img src="images/experience/digitalsunset-preview.jpg" alt="Screenshot of storybook video-call wireframe, with an interactive to draw on the users' video on the left, and text from the story on the right." width="600" height="416">
   </a>
   <!-- Screenshot of wireframe worked on with Caitlin Lau, John Qin and Yingyi Shu -->
   <div>
@@ -58,7 +58,7 @@
 
 <article class="flexbox">
   <div class="flex-item">
-    <img src="images/cornell-preview.gif" alt="Cornell University logo" width="506" height="493">
+    <img src="images/experience/cornell-preview.gif" alt="Cornell University logo" width="506" height="493">
   </div>
   <div class="flex-item">
     <h2>Software Engineer in student team <em>Betrayal</em></h2>
@@ -75,7 +75,7 @@
   <a
     href = "https://irselin.itch.io/parole-in-one"
     target="_blank">
-    <img src="images/waypoint-preview.jpg" alt="Screenshot of a difficult level from stealth-based mini golf game: Parole in One" width="600" height="416">
+    <img src="images/experience/waypoint-preview.jpg" alt="Screenshot of a difficult level from stealth-based mini golf game: Parole in One" width="600" height="416">
   </a>
   <!-- Screenshot of class project worked on with Yuxiang Yu, Courtney Manbeck, Lucien Eckert, Kevin Klaben, Tony Qin, Betsy Vasquez Valerio and Barry Wang -->
   <div>
@@ -91,7 +91,7 @@
 </article>
 
 <article class="flexbox">
-  <img src="images/saltstudios-preview.jpg" alt="Original concept art for goblin characters" width="463" height="539">
+  <img src="images/experience/saltstudios-preview.jpg" alt="Original concept art for goblin characters" width="463" height="539">
   <div>
     <h2>Lead Artist at <em>Salt Studios</em></h2>
     <ul>
@@ -103,7 +103,7 @@
 </article>
 
 <article class="flexbox">
-  <img src="images/amnh-preview.jpg" alt="logo for the American Museum of Natural History" width="600" height="378">
+  <img src="images/experience/amnh-preview.jpg" alt="logo for the American Museum of Natural History" width="600" height="378">
   <div>
     <h2>Intern at <em>The American Museum of Natural History</em> exhibition design department</h2>
     <ul>
